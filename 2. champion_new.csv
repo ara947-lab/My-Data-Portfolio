@@ -1,0 +1,53 @@
+,name,cost,defense,attack_range,speed_of_attack,dps,skill_name,origin,class,initial_mp,max_mp,mp_persecond,first_skill,second_skill,attack_1star,attack_2star,attack_3star,health_1star,health_2star,health_3star
+0,gangplank,5,30,1,1.0,60,gangplank_orbitalstrike,space pirate,"['mercenary', 'demolitionist']",100,175,10.0,7.5,17.5,60,108,194,1000,1800,3240
+1,graves,1,35,1,0.55,30,graves_smokegrenade,space pirate,['blaster'],50,80,5.5,5.454545454545454,14.545454545454543,55,99,178,650,1170,2106
+2,neeko,3,35,2,0.65,33,neeko_popblossom,star guardian,['protector'],75,150,6.5,11.538461538461538,23.07692307692308,50,90,162,800,1440,2592
+3,darius,2,35,1,0.65,39,darius_spacepirateguillotine,space pirate,['mana-reaver'],0,60,6.5,9.23076923076923,9.23076923076923,60,108,194,750,1350,2430
+4,rakan,2,35,2,0.7,32,rakan_grandentrance,celestial,['protector'],50,100,7.0,7.142857142857143,14.285714285714286,45,81,146,600,1080,1944
+5,lux,3,20,4,0.7,28,lux_luridbinding,dark star,['sorcerer'],50,100,7.0,7.142857142857143,14.285714285714286,40,72,130,600,1080,1944
+6,rumble,3,35,1,0.7,35,rumble_flamespitter,mech-pilot,['demolitionist'],0,60,7.0,8.571428571428571,8.571428571428571,50,90,162,800,1440,2592
+7,leona,1,40,1,0.55,28,leona_cyberbarrier,cybernetic,['vanguard'],50,100,5.5,9.090909090909092,18.181818181818183,50,90,162,600,1080,1944
+8,lucian,2,25,4,0.7,35,lucian_relentlesspersuit,cybernetic,['blaster'],0,35,7.0,5.0,5.0,50,90,162,500,900,1620
+9,lulu,5,25,3,0.8,36,lulu_masspolymorph,celestial,['mystic'],75,150,8.0,9.375,18.75,45,81,146,800,1440,2592
+10,masteryi,3,30,1,0.8,44,masteryi_chosenone,rebel,['blademaster'],0,55,8.0,6.875,6.875,55,99,178,750,1350,2430
+11,malphite,1,30,1,0.5,35,malphite_energyshield,rebel,['brawler'],0,0,5.0,0.0,0.0,70,126,227,700,1260,2268
+12,mordekaiser,2,40,1,0.6,33,mordekaiser_indestructible,dark star,['vanguard'],0,90,6.0,15.0,15.0,55,99,178,650,1170,2106
+13,missfortune,5,20,4,1.0,60,missfortune_bullettime,valkyrie,"['mercenary', 'blaster']",75,175,10.0,10.0,17.5,60,108,194,800,1440,2592
+14,vi,3,35,1,0.65,39,vi_assaultandbattery,cybernetic,['brawler'],70,140,6.5,10.76923076923077,21.53846153846154,60,108,194,750,1350,2430
+15,velkoz,4,20,4,0.75,34,velkoz_lifeformdisintegrationray,void,['sorcerer'],0,70,7.5,9.333333333333334,9.333333333333334,45,81,146,650,1170,2106
+16,blitzcrank,2,35,1,0.5,28,blitzcrank_rocketgrab,chrono,['brawler'],125,125,5.0,0.0,25.0,55,99,178,650,1170,2106
+17,poppy,1,40,1,0.55,28,poppy_bucklertoss,star guardian,['vanguard'],60,100,5.5,7.272727272727272,18.181818181818183,50,90,162,650,1170,2106
+18,shaco,3,25,1,0.8,56,shaco_deceive,dark star,['infiltrator'],30,80,8.0,6.25,10.0,70,126,227,650,1170,2106
+19,sona,2,20,3,0.65,26,sona_ariaofperseverance,rebel,['mystic'],0,40,6.5,6.153846153846154,6.153846153846154,40,72,130,550,990,1782
+20,soraka,4,30,3,0.75,34,soraka_wish,star guardian,['mystic'],50,125,7.5,10.0,16.666666666666668,45,81,146,700,1260,2268
+21,shen,2,35,1,0.7,42,shen_futuresrefuge,chrono,['blademaster'],100,150,7.0,7.142857142857143,21.428571428571427,60,108,194,800,1440,2592
+22,xinzhao,2,35,1,0.7,42,xinzhao_threetalonstrike,celestial,['protector'],0,60,7.0,8.571428571428571,8.571428571428571,60,108,194,650,1170,2106
+23,syndra,3,20,4,0.7,32,syndra_unleashedpower,star guardian,['sorcerer'],0,65,7.0,9.285714285714286,9.285714285714286,45,81,146,600,1080,1944
+24,thresh,5,35,2,0.95,48,thresh_temporalpassage,chrono,['mana-reaver'],50,85,9.5,3.684210526315789,8.947368421052632,50,90,162,950,1710,3078
+25,ahri,2,20,3,0.75,34,ahri_orbofdeception,star guardian,['sorcerer'],0,60,7.5,8.0,8.0,45,81,146,600,1080,1944
+26,aurelionsol,5,35,1,0.8,8,aurelionsol_mobilizethefleet,rebel,['starship'],40,120,8.0,10.0,15.0,10,18,32,1100,1980,3564
+27,annie,2,40,2,0.65,26,annie_galaxyshieldblast,mech-pilot,['sorcerer'],75,150,6.5,11.538461538461538,23.07692307692308,40,72,130,700,1260,2268
+28,ashe,3,20,5,0.8,48,ashe_enchantedcrystalarrow,celestial,['sniper'],50,125,8.0,9.375,15.625,60,108,194,600,1080,1944
+29,yasuo,2,30,1,0.75,38,yasuo_lastbreath,rebel,['blademaster'],0,100,7.5,13.333333333333334,13.333333333333334,50,90,162,600,1080,1944
+30,ekko,5,30,1,0.9,54,ekko_chronobreak,cybernetic,['infiltrator'],50,150,9.0,11.11111111111111,16.666666666666668,60,108,194,850,1530,2754
+31,wukong,4,40,1,0.75,38,monkeyking_cyclone,chrono,['vanguard'],50,150,7.5,13.333333333333334,20.0,50,90,162,950,1710,3078
+32,irelia,4,35,1,0.85,60,irelia_bladesurge,cybernetic,"['mana-reaver', 'blademaster']",0,30,8.5,3.5294117647058822,3.5294117647058822,70,126,227,800,1440,2592
+33,ezreal,3,20,3,0.7,42,ezreal_emp,chrono,['blaster'],50,125,7.0,10.714285714285714,17.857142857142858,60,108,194,600,1080,1944
+34,jarvaniv,1,40,1,0.6,30,jarvaniv_agelessstandard,dark star,['protector'],50,100,6.0,8.333333333333334,16.666666666666668,50,90,162,650,1170,2106
+35,xayah,1,20,3,0.8,44,xayah_deadlyplumage,celestial,['blademaster'],0,50,8.0,6.25,6.25,55,99,178,500,900,1620
+36,xerath,5,20,5,0.9,54,xerath_abyssalbombardment,dark star,['sorcerer'],30,80,9.0,5.555555555555555,8.88888888888889,60,108,194,750,1350,2430
+37,jayce,3,40,1,0.7,42,jayce_totheskies,space pirate,['vanguard'],0,80,7.0,11.428571428571429,11.428571428571429,60,108,194,750,1350,2430
+38,zoe,1,20,3,0.7,28,zoe_sleepytroublebubble,star guardian,['sorcerer'],70,100,7.0,4.285714285714286,14.285714285714286,40,72,130,500,900,1620
+39,ziggs,1,20,3,0.7,28,ziggs_bomb,rebel,['demolitionist'],0,45,7.0,6.428571428571429,6.428571428571429,40,72,130,500,900,1620
+40,jhin,4,20,5,0.9,81,jhin_whisper,dark star,['sniper'],0,0,9.0,0.0,0.0,90,162,292,600,1080,1944
+41,jinx,4,20,3,0.75,53,jinx_getexcited,rebel,['blaster'],0,0,7.5,0.0,0.0,70,126,227,600,1080,1944
+42,chogath,4,20,1,0.6,42,chogath_rupture,void,['brawler'],50,150,6.0,16.666666666666668,25.0,70,126,227,1000,1800,3240
+43,karma,3,20,3,0.65,33,karma_inspire,dark star,['mystic'],75,100,6.5,3.8461538461538463,15.384615384615383,50,90,162,600,1080,1944
+44,kassadin,3,30,1,0.65,33,kassadin_forcepulse,celestial,['mana-reaver'],40,80,6.5,6.153846153846154,12.307692307692308,50,90,162,800,1440,2592
+45,kaisa,2,20,2,0.75,38,kaisa_missilerain,valkyrie,['infiltrator'],0,60,7.5,8.0,8.0,50,90,162,550,990,1782
+46,khazix,1,25,1,0.7,35,khazix_tastetheirfear,void,['infiltrator'],0,65,7.0,9.285714285714286,9.285714285714286,50,90,162,500,900,1620
+47,caitlyn,1,20,5,0.75,34,caitlyn_aceinthehole,chrono,['sniper'],0,125,7.5,16.666666666666668,16.666666666666668,45,81,146,500,900,1620
+48,kayle,4,25,3,0.8,48,kayle_ascend,valkyrie,['blademaster'],0,60,8.0,7.5,7.5,60,108,194,700,1260,2268
+49,twistedfate,1,20,3,0.7,28,twistedfate_wildcards,chrono,['sorcerer'],0,75,7.0,10.714285714285714,10.714285714285714,40,72,130,500,900,1620
+50,fiora,1,30,1,1.0,45,fiora_reposte,cybernetic,['blademaster'],0,85,10.0,8.5,8.5,45,81,146,450,810,1458
+51,fizz,4,25,1,0.8,48,fizz_chumthewaters,mech-pilot,['infiltrator'],80,150,8.0,8.75,18.75,60,108,194,600,1080,1944
